@@ -19,5 +19,5 @@ pipenv shell
 
 Run tests
 ```
-python -m unittest discover tests
+pipenv run  python -m unittest discover tests 
 ```
